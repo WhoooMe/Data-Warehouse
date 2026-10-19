@@ -1,0 +1,10 @@
+﻿tabel,teknik,jenis_injeksi,jumlah_baris
+encounters,Bad business logic,STOP lebih awal dari START (START/STOP ditukar),112
+encounters,Bad business logic,PAYER_COVERAGE > TOTAL_CLAIM_COST,112
+encounters,Bad business logic,BASE_ENCOUNTER_COST negatif,56
+encounters,Null,PAYER dikosongkan,84
+encounters,Duplikasi,Baris kunjungan identik digandakan,279
+procedures,Bad business logic,STOP lebih awal dari START (START/STOP ditukar),143
+procedures,Bad business logic,BASE_COST negatif,95
+procedures,Duplikasi,Baris tindakan identik digandakan,477
+patients,Duplikasi,Pasien yang sama didaftarkan ulang dengan ID baru,10
